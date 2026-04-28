@@ -1,15 +1,15 @@
-📊 HR Analytics Dashboard (Power BI)
 
+
+📊 HR Analytics Dashboard (Power BI)
 This project focuses on analyzing employee data to understand attrition trends and workforce patterns using Power BI. The goal is to turn raw HR data into clear insights that can help organizations make better decisions and reduce employee turnover.
 
 🔧 Tools Used
 Power BI
 Excel / CSV Dataset
 DAX (Data Analysis Expressions)
+
 📌 Project Overview
-
 In this dashboard, I worked on cleaning and transforming HR data and built an interactive visualization to explore:
-
 Total employees and attrition count
 Attrition rate across the company
 Average age, salary, and years of experience
@@ -30,7 +30,7 @@ Multiple charts like bar graphs, pie charts, and trend lines
 KPI cards for quick summary insights
 📷 Dashboard Preview
 
-<img width="1330" height="742" alt="image" src="https://github.com/user-attachments/assets/61558bbc-9024-455d-ab56-2698c480a927" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/61558bbc-9024-455d-ab56-2698c480a927" />
 
 
 💡 What I Learned
